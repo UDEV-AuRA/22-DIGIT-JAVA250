@@ -1,9 +1,10 @@
 # TP
-1° export articles.csv
-2° Ajout l'objet client (nom + prénom) et réalisaer l'export client.csv 
-2'°)+ rajouter dans l'export l'age du client
-3° export client.xlsx avec la mise en forme demandée (cf fichier 03-clients-excel.xlsx)
-4° export total factures (cf fichier 04-factures-excel.xlsx)
+0° export export-articles.csv
+1° export export-clients.csv
+2° Ajout l'objet client (nom + prénom) et réaliser l'export export-client.csv 
+2'°)+ rajouter dans l'export l'age du client : export-clients-avec-age.csv
+3° export export-client.xlsx avec la mise en forme demandée (cf fichier export-clients.xlsx)
+4° export total factures (cf fichier export-factures.xlsx)
 5° export PDF d'une facture (format au choix)
 
 
